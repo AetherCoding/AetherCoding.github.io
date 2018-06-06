@@ -1,0 +1,36 @@
+body{
+    background-color: #A5A5FF;
+    color: #ffffff;
+    padding-left: auto;
+    font-family: monospace;
+}
+
+h1{
+    font-family: monospace;
+    color: #3931A5;
+    text-align: center;  
+    font-variant-caps: unicase;
+    font-size: 72pt;
+    font-weight: 1000;
+}
+
+h3{
+    font-family: sans-serif;
+    color: #3931A5;
+    text-align: center;
+    font-variant: small-caps;
+    font-style: italic;
+    font-weight: 2000;
+}
+
+#basiccbm{
+    background-color: #3931A5;
+    width: 50%;
+    height: 50%;
+    position: static;
+    margin:auto;
+    text-align: center;
+    padding: 7%
+}
+
+
